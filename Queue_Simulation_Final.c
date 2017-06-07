@@ -1,3 +1,5 @@
+/* The project- Queue Simulation Model was submitted by Minita Dabhi on date April 5th,2016 as the requirement of course 
+ECE610 - Broadband networking.*/
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
