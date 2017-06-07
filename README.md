@@ -1,3 +1,5 @@
+######The project- Queue Simulation Model was submitted by Minita Dabhi on date April 5th,2016 as the requirement of course 
+ECE610 - Broadband networking.#######
 This project aims to prepare the queue model simulation in order to help analyze/study the behavior of various queue models.
 The models covered in this project are,
 - M/M/1 queue
